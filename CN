@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://70.ms/6s" group-title="INFANTIS",Disney Channel HD
+http://5ce.me:80/live/Deyse/D135hsu/6604.m3u8
+#EXTINF:-1 tvg-logo="http://70.ms/6D" group-title="INFANTIS",Disney Junior HD
+http://5ce.me:80/live/Deyse/D135hsu/6602.m3u8
 #EXTINF:-1 tvg-logo="http://urlon.me/hy" group-title="FILMES & SÉRIES",A&E HD
 http://cms-central.co:80/Deyse/D135hsu/6647
 #EXTINF:-1 tvg-logo="http://urlon.me/hv" group-title="FILMES & SÉRIES",AMC HD
