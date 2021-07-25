@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Playboy TV" tvg-logo="https://i.imgur.com/BV1HT2Q.png" group-title="CN: Adultos",Playboy TV
+http://sv1.srvstm.gq:80/live/deyse/10203040/3214.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Prive" tvg-logo="https://i.imgur.com/qjLuVBC.png" group-title="CN: Adultos",Sex Privé
+http://sv1.srvstm.gq:80/live/deyse/10203040/3215.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sexy Hot HD" tvg-logo="https://i.imgur.com/SZjQuz7.png" group-title="CN: Adultos",Sexy Hot
+http://sv1.srvstm.gq:80/live/deyse/10203040/3216.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sextreme" tvg-logo="https://i.imgur.com/9Xzt6gN.png" group-title="CN: Adultos",Sextreme
+http://sv1.srvstm.gq:80/live/deyse/10203040/3217.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Venus" tvg-logo="https://i.imgur.com/gr7CsFf.png" group-title="CN: Adultos",Venus
+http://sv1.srvstm.gq:80/live/deyse/10203040/3218.m3u8
