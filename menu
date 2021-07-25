@@ -6,6 +6,6 @@ https://raw.githubusercontent.com/ystarley/deyse/main/l.plexys
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", FILMES
 #EXTBG:https://i.imgur.com/eA4gKf9.png 
 https://raw.githubusercontent.com/ystarley/deyse/main/f.plexys
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", ADULTOS
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", ADULTO
 #EXTBG:https://i.imgur.com/MqZhyIH.png
 https://raw.githubusercontent.com/ystarley/deyse/main/l.a.plexys
