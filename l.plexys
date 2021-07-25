@@ -1,1 +1,6 @@
+#EXTM3U
+#EXTINF:0,Fox Sports 2 HD
+http://sv1.srvstm.gq:80/live/deyse/10203040/3110.m3u8
+#EXTINF:0,Fox Sports HD
+http://sv1.srvstm.gq:80/live/deyse/10203040/3109.m3u8
 
