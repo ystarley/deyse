@@ -3,4 +3,6 @@
 http://sv1.srvstm.gq:80/live/deyse/10203040/3110.m3u8
 #EXTINF:0,Fox Sports HD
 http://sv1.srvstm.gq:80/live/deyse/10203040/3109.m3u8
+#EXTINF:0,Telecine Fun HD
+http://sv1.srvstm.gq:80/live/deyse/10203040/3138.m3u8
 
