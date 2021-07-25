@@ -2,18 +2,3 @@
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", TV AO VIVO
 #EXTBG:https://i.imgur.com/KLF9P7F.png
 https://raw.githubusercontent.com/ystarley/deyse/main/l.plexys
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", FILMES
-#EXTBG:https://i.imgur.com/eA4gKf9.png 
-http://ss.5ce.co/get.php?username=Pedro@&password=20uu38iw&type=m3u_plus&output=ts&category=2
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", SÉRIES
-#EXTBG:https://i.imgur.com/4vdYKIH.png
-http://ss.5ce.co/get.php?username=Pedro@&password=20uu38iw&type=m3u_plus&output=ts&category=3
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", 24 HORAS
-#EXTBG:https://i.imgur.com/R87uGsB.png
-http://ss.5ce.co/get.php?username=Pedro@&password=20uu38iw&type=m3u_plus&output=hls&category=4
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", NOVELAS
-#EXTBG:https://i.imgur.com/u32CPDI.png
-http://ss.5ce.co/get.php?username=Pedro@&password=20uu38iw&type=m3u_plus&output=ts&category=5
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", DESENHOS
-#EXTBG:https://i.imgur.com/ol2GeQg.png
-http://ss.5ce.co/get.php?username=Pedro@&password=20uu38iw&type=m3u_plus&output=ts&category=6
