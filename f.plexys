@@ -1,99 +1,148 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="A Gêmea do Mal (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVraarjuYRDdLczaPKtIWbwpfjy.jpg" group-title="FM: LANÇAMENTOS",A Gêmea do Mal (2021)
+#EXTINF:-1 tvg-id="" tvg-name="A Gêmea do Mal (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVraarjuYRDdLczaPKtIWbwpfjy.jpg" group-title="FM: Lançamentos",A Gêmea do Mal (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3234.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cosmoball: Os Guardiões do Universo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1AkgB1GoseuOB0i14uC185oqmCz.jpg" group-title="FM: LANÇAMENTOS",Cosmoball: Os Guardiões do Universo (2020)
+#EXTINF:-1 tvg-id="" tvg-name="Cosmoball: Os Guardiões do Universo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1AkgB1GoseuOB0i14uC185oqmCz.jpg" group-title="FM: Lançamentos",Cosmoball: Os Guardiões do Universo (2020)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3235.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rua do Medo: 1666 – Parte 3 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hsX1vt168fNSMSYwTVi8M9O0hLu.jpg" group-title="FM: LANÇAMENTOS",Rua do Medo: 1666 – Parte 3 (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Rua do Medo: 1666 – Parte 3 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hsX1vt168fNSMSYwTVi8M9O0hLu.jpg" group-title="FM: Lançamentos",Rua do Medo: 1666 – Parte 3 (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3236.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Resgate: O Dia da Redenção (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPsov8oNjcPmkKf8rxv9PEXy14J.jpg" group-title="FM: LANÇAMENTOS",O Resgate: O Dia da Redenção (2021)
+#EXTINF:-1 tvg-id="" tvg-name="O Resgate: O Dia da Redenção (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPsov8oNjcPmkKf8rxv9PEXy14J.jpg" group-title="FM: Lançamentos",O Resgate: O Dia da Redenção (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3237.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Out of Death (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zan6xYKNGKgkp2hFajU398I1iTD.jpg" group-title="FM: LANÇAMENTOS",Out of Death (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Out of Death (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zan6xYKNGKgkp2hFajU398I1iTD.jpg" group-title="FM: Lançamentos",Out of Death (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3238.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Space Jam: Um Novo Legado (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4KpzK25KbkHWmj74lrskz2Sfyl.jpg" group-title="FM: LANÇAMENTOS",Space Jam: Um Novo Legado (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Space Jam: Um Novo Legado (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4KpzK25KbkHWmj74lrskz2Sfyl.jpg" group-title="FM: Lançamentos",Space Jam: Um Novo Legado (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3239.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Noite de Crime 5:  A Fronteira (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ehfsD8b7bv8t1c4ILe2NUpSx5R.jpg" group-title="FM: LANÇAMENTOS",Uma Noite de Crime 5:  A Fronteira (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Uma Noite de Crime 5:  A Fronteira (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ehfsD8b7bv8t1c4ILe2NUpSx5R.jpg" group-title="FM: Lançamentos",Uma Noite de Crime 5:  A Fronteira (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3240.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Clássico Filme de Terror (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4gomiaeEAVkgofuyCHtzKkuXVS.jpg" group-title="FM: LANÇAMENTOS",Um Clássico Filme de Terror (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Um Clássico Filme de Terror (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4gomiaeEAVkgofuyCHtzKkuXVS.jpg" group-title="FM: Lançamentos",Um Clássico Filme de Terror (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3241.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Milagre Inesperado (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jART4wnzFZeZ2fDpPwVvm9qihTA.jpg" group-title="FM: LANÇAMENTOS",Um Milagre Inesperado (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Um Milagre Inesperado (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jART4wnzFZeZ2fDpPwVvm9qihTA.jpg" group-title="FM: Lançamentos",Um Milagre Inesperado (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3242.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Última Carta de Amor (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvtsPKeWzTLjMQm0cB9qiNcmWnq.jpg" group-title="FM: LANÇAMENTOS",A Última Carta de Amor (2021)
+#EXTINF:-1 tvg-id="" tvg-name="A Última Carta de Amor (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvtsPKeWzTLjMQm0cB9qiNcmWnq.jpg" group-title="FM: Lançamentos",A Última Carta de Amor (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3244.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Encaixe Perfeito (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXAVrQQi0PR4eptYvppdJUk3SAk.jpg" group-title="FM: LANÇAMENTOS",Encaixe Perfeito (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Encaixe Perfeito (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXAVrQQi0PR4eptYvppdJUk3SAk.jpg" group-title="FM: Lançamentos",Encaixe Perfeito (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3245.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kingdom: Reino Ashin do Norte (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Lf5QXb8e0BOdutXGb8oNgDNl0E.jpg" group-title="FM: LANÇAMENTOS",Kingdom: Reino Ashin do Norte (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Kingdom: Reino Ashin do Norte (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Lf5QXb8e0BOdutXGb8oNgDNl0E.jpg" group-title="FM: Lançamentos",Kingdom: Reino Ashin do Norte (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3246.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jolt: Fúria Fatal (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYZAHan5CHPFXORpQMvOjCTug4E.jpg" group-title="FM: LANÇAMENTOS",Jolt: Fúria Fatal (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Jolt: Fúria Fatal (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYZAHan5CHPFXORpQMvOjCTug4E.jpg" group-title="FM: Lançamentos",Jolt: Fúria Fatal (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3247.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Caçadores de Trolls: A Ascensão dos Titãs (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ypPh0GKzLIP9vyO8eFmu4jCzkHi.jpg" group-title="FM: LANÇAMENTOS",Caçadores de Trolls: A Ascensão dos Titãs (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Caçadores de Trolls: A Ascensão dos Titãs (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ypPh0GKzLIP9vyO8eFmu4jCzkHi.jpg" group-title="FM: Lançamentos",Caçadores de Trolls: A Ascensão dos Titãs (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3248.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Homem Água (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s7hsfb9fiEaLO5cLqVxjUhowosP.jpg" group-title="FM: LANÇAMENTOS",O Homem Água (2021)
+#EXTINF:-1 tvg-id="" tvg-name="O Homem Água (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s7hsfb9fiEaLO5cLqVxjUhowosP.jpg" group-title="FM: Lançamentos",O Homem Água (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3249.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Viúva Negra (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKq1Vlw0Bqe2EEvdmIkkkgPQAGf.jpg" group-title="FM: LANÇAMENTOS",Viúva Negra (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Viúva Negra (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKq1Vlw0Bqe2EEvdmIkkkgPQAGf.jpg" group-title="FM: Lançamentos",Viúva Negra (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3250.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Memórias de Verão (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1TEpYgCvHmbhboMi1pdR1Voz5y3.jpg" group-title="FM: LANÇAMENTOS",Memórias de Verão (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Memórias de Verão (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1TEpYgCvHmbhboMi1pdR1Voz5y3.jpg" group-title="FM: Lançamentos",Memórias de Verão (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3286.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Presença (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2UFvWAcUviyCudkcT7omqJRyeG.jpg" group-title="FM: LANÇAMENTOS",Presença (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Presença (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2UFvWAcUviyCudkcT7omqJRyeG.jpg" group-title="FM: Lançamentos",Presença (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3287.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alice e Peter: Onde Nascem os Sonhos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sCrRwiist9uWQ1TYIkniCnbPUOK.jpg" group-title="FM: LANÇAMENTOS",Alice e Peter: Onde Nascem os Sonhos (2020)
+#EXTINF:-1 tvg-id="" tvg-name="Alice e Peter: Onde Nascem os Sonhos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sCrRwiist9uWQ1TYIkniCnbPUOK.jpg" group-title="FM: Lançamentos",Alice e Peter: Onde Nascem os Sonhos (2020)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3288.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nascido para Vencer (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4i3j5sX9RDj9AywcAEk7SHQPkuO.jpg" group-title="FM: LANÇAMENTOS",Nascido para Vencer (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Nascido para Vencer (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4i3j5sX9RDj9AywcAEk7SHQPkuO.jpg" group-title="FM: Lançamentos",Nascido para Vencer (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3289.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sequestro Internacional (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jay8E3DtnFgVfeDInMOOHxVUfn3.jpg" group-title="FM: LANÇAMENTOS",Sequestro Internacional (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Sequestro Internacional (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jay8E3DtnFgVfeDInMOOHxVUfn3.jpg" group-title="FM: Lançamentos",Sequestro Internacional (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3290.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Confinamento (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQFj3thRxlA8LE7QlaaJ1utjh5K.jpg" group-title="FM: LANÇAMENTOS",Confinamento (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Confinamento (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQFj3thRxlA8LE7QlaaJ1utjh5K.jpg" group-title="FM: Lançamentos",Confinamento (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3291.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Pequenos Vestígios (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1KNf7qHuce6U39Iygxz9fYRv0ny.jpg" group-title="FM: LANÇAMENTOS",Os Pequenos Vestígios (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Os Pequenos Vestígios (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1KNf7qHuce6U39Iygxz9fYRv0ny.jpg" group-title="FM: Lançamentos",Os Pequenos Vestígios (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3292.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rogai por Nós (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zduyzcjyahZtP4fGZE6789h04IM.jpg" group-title="FM: LANÇAMENTOS",Rogai por Nós (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Rogai por Nós (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zduyzcjyahZtP4fGZE6789h04IM.jpg" group-title="FM: Lançamentos",Rogai por Nós (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3293.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Em um Bairro de Nova York (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57stjvmmKTEsscXfWmFHsFoISq5.jpg" group-title="FM: LANÇAMENTOS",Em um Bairro de Nova York (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Em um Bairro de Nova York (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57stjvmmKTEsscXfWmFHsFoISq5.jpg" group-title="FM: Lançamentos",Em um Bairro de Nova York (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3294.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Sétimo Dia (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NBiv0mpQJppmm5U912XXnokjnN.jpg" group-title="FM: LANÇAMENTOS",O Sétimo Dia (2021)
+#EXTINF:-1 tvg-id="" tvg-name="O Sétimo Dia (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NBiv0mpQJppmm5U912XXnokjnN.jpg" group-title="FM: Lançamentos",O Sétimo Dia (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3295.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Deep 2021" tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/21/06/29/05/11/5379621.jpg" group-title="FM: LANÇAMENTOS",Deep 2021
+#EXTINF:-1 tvg-id="" tvg-name="Deep 2021" tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/21/06/29/05/11/5379621.jpg" group-title="FM: Lançamentos",Deep 2021
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3297.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Palavras que Borbulham como Refrigerante (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioj55UtUAJgryvGim67w9B3NhA6.jpg" group-title="FM: LANÇAMENTOS",Palavras que Borbulham como Refrigerante (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Palavras que Borbulham como Refrigerante (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioj55UtUAJgryvGim67w9B3NhA6.jpg" group-title="FM: Lançamentos",Palavras que Borbulham como Refrigerante (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3298.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Room 9 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eETzryxeKhxXnMddKPwJp6hezTo.jpg" group-title="FM: LANÇAMENTOS",Room 9 (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Room 9 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eETzryxeKhxXnMddKPwJp6hezTo.jpg" group-title="FM: Lançamentos",Room 9 (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3299.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Lugar Silencioso - Parte II (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYqmuxd9jNFLf3gtQY5vbAUgiGk.jpg" group-title="FM: LANÇAMENTOS",Um Lugar Silencioso - Parte II (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Um Lugar Silencioso - Parte II (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYqmuxd9jNFLf3gtQY5vbAUgiGk.jpg" group-title="FM: Lançamentos",Um Lugar Silencioso - Parte II (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3300.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Morte Salvou Minha Vida (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2S4AMsZG7PZmSLgDhPCKk5VakT.jpg" group-title="FM: LANÇAMENTOS",A Morte Salvou Minha Vida (2021)
+#EXTINF:-1 tvg-id="" tvg-name="A Morte Salvou Minha Vida (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2S4AMsZG7PZmSLgDhPCKk5VakT.jpg" group-title="FM: Lançamentos",A Morte Salvou Minha Vida (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3307.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Vida Pode Mudar (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1F6VdHC16zwEJoEWx2omJ0fzgmA.jpg" group-title="FM: LANÇAMENTOS",A Vida Pode Mudar (2021)
+#EXTINF:-1 tvg-id="" tvg-name="A Vida Pode Mudar (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1F6VdHC16zwEJoEWx2omJ0fzgmA.jpg" group-title="FM: Lançamentos",A Vida Pode Mudar (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3308.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor nas Alturas (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tylTgpAZuptwAAlAxxuKpwDsxF7.jpg" group-title="FM: LANÇAMENTOS",Amor nas Alturas (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Amor nas Alturas (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tylTgpAZuptwAAlAxxuKpwDsxF7.jpg" group-title="FM: Lançamentos",Amor nas Alturas (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3309.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Anónimo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0SHgCIbmg2PsgrIEFr5BlU503l.jpg" group-title="FM: LANÇAMENTOS",Anónimo (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Anónimo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0SHgCIbmg2PsgrIEFr5BlU503l.jpg" group-title="FM: Lançamentos",Anónimo (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3310.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aqueles Que Me Desejam a Morte (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNi8uFKHAN5qt9UU5PpDi8cjWj1.jpg" group-title="FM: LANÇAMENTOS",Aqueles Que Me Desejam a Morte (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Aqueles Que Me Desejam a Morte (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNi8uFKHAN5qt9UU5PpDi8cjWj1.jpg" group-title="FM: Lançamentos",Aqueles Que Me Desejam a Morte (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3311.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Awake (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZkNbB8isWXHMDNoIbqXvmslBMC.jpg" group-title="FM: LANÇAMENTOS",Awake (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Awake (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZkNbB8isWXHMDNoIbqXvmslBMC.jpg" group-title="FM: Lançamentos",Awake (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3312.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Interrompemos a Programação (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lqSjrADn8jqoTNfy33bRfOhNFpm.jpg" group-title="FM: LANÇAMENTOS",Interrompemos a Programação (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Interrompemos a Programação (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lqSjrADn8jqoTNfy33bRfOhNFpm.jpg" group-title="FM: Lançamentos",Interrompemos a Programação (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3313.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Luca (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9jPa6SlUYxPFMVZlEuceiPPAA15.jpg" group-title="FM: LANÇAMENTOS",Luca (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Luca (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9jPa6SlUYxPFMVZlEuceiPPAA15.jpg" group-title="FM: Lançamentos",Luca (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3314.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Major Grom (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o2whGyj5zn3uSnBjefSiMIElIUO.jpg" group-title="FM: LANÇAMENTOS",Major Grom (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Major Grom (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o2whGyj5zn3uSnBjefSiMIElIUO.jpg" group-title="FM: Lançamentos",Major Grom (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3315.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mobile Suit Gundam: Hathaway (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZ0JtG3VUWYGuE7j5JlmCQlcssl.jpg" group-title="FM: LANÇAMENTOS",Mobile Suit Gundam: Hathaway (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Mobile Suit Gundam: Hathaway (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZ0JtG3VUWYGuE7j5JlmCQlcssl.jpg" group-title="FM: Lançamentos",Mobile Suit Gundam: Hathaway (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3316.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nem um Passo em Falso (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3gOA4HILFPzjbRuj7HOC55qKDI.jpg" group-title="FM: LANÇAMENTOS",Nem um Passo em Falso (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Nem um Passo em Falso (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3gOA4HILFPzjbRuj7HOC55qKDI.jpg" group-title="FM: Lançamentos",Nem um Passo em Falso (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3317.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Gângster Nômade (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/goLoLNagbnWpPQh4YQE9R2hSLqj.jpg" group-title="FM: LANÇAMENTOS",O Gângster Nômade (2021)
+#EXTINF:-1 tvg-id="" tvg-name="O Gângster Nômade (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/goLoLNagbnWpPQh4YQE9R2hSLqj.jpg" group-title="FM: Lançamentos",O Gângster Nômade (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3318.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Simpsons: O Bem, o Bart e o Loki (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jTBiR84Pyt22VMNsxvCQfFPf6iq.jpg" group-title="FM: LANÇAMENTOS",Os Simpsons: O Bem, o Bart e o Loki (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Os Simpsons: O Bem, o Bart e o Loki (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jTBiR84Pyt22VMNsxvCQfFPf6iq.jpg" group-title="FM: Lançamentos",Os Simpsons: O Bem, o Bart e o Loki (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3319.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Paternidade (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9YSg8HsrSnsYMrJUigyA8A6ybX.jpg" group-title="FM: LANÇAMENTOS",Paternidade (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Paternidade (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9YSg8HsrSnsYMrJUigyA8A6ybX.jpg" group-title="FM: Lançamentos",Paternidade (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3320.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Segurança (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tuMcn12Us09pmAOuVEHXmFRivjF.jpg" group-title="FM: LANÇAMENTOS",Segurança (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Segurança (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tuMcn12Us09pmAOuVEHXmFRivjF.jpg" group-title="FM: Lançamentos",Segurança (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3321.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Oitava Noite (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a11TdGOWqASvbeMs7q0a1YLa5K.jpg" group-title="FM: LANÇAMENTOS",A Oitava Noite (2021)
+#EXTINF:-1 tvg-id="" tvg-name="A Oitava Noite (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a11TdGOWqASvbeMs7q0a1YLa5K.jpg" group-title="FM: Lançamentos",A Oitava Noite (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3322.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Quem Vai Ficar com Mário? (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xYZJVlX3BryIbsTEJ0YaVfr9uAs.jpg" group-title="FM: LANÇAMENTOS",Quem Vai Ficar com Mário? (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Quem Vai Ficar com Mário? (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xYZJVlX3BryIbsTEJ0YaVfr9uAs.jpg" group-title="FM: Lançamentos",Quem Vai Ficar com Mário? (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3323.mkv
-#EXTINF:-1 tvg-id="" tvg-name="De Volta à Itália (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xYZJVlX3BryIbsTEJ0YaVfr9uAs.jpg" group-title="FM: LANÇAMENTOS",De Volta à Itália (2021)
+#EXTINF:-1 tvg-id="" tvg-name="De Volta à Itália (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xYZJVlX3BryIbsTEJ0YaVfr9uAs.jpg" group-title="FM: Lançamentos",De Volta à Itália (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3324.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Godzilla vs. Kong (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wllzjZxg4ynlAm5xmOICJ2uHOPJ.jpg" group-title="FM: LANÇAMENTOS",Godzilla vs. Kong (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla vs. Kong (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wllzjZxg4ynlAm5xmOICJ2uHOPJ.jpg" group-title="FM: Lançamentos",Godzilla vs. Kong (2021)
 http://sv1.srvstm.gq:80/movie/deyse/10203040/3325.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Guerra do Amanhã (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWQ3hI78Az2RHfzDpEuvougqUz7.jpg" group-title="FM: Lançamentos",A Guerra do Amanhã (2021)
+http://sv1.srvstm.gq:80/movie/deyse/10203040/3326.mp4
+#EXTINF:-1 tvg-id="" tvg-name="À Segunda Vista (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xf0WIACbfDRSeTeAvAW9RHky39S.jpg" group-title="FM: Lançamentos",À Segunda Vista (2021)
+http://sv1.srvstm.gq:80/movie/deyse/10203040/3327.mp4
+#EXTINF:-1 tvg-id="" tvg-name="America: The Motion Picture (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1JRRvx5RotvWM1maeq9r82ktdHi.jpg" group-title="FM: Lançamentos",America: The Motion Picture (2021)
+http://sv1.srvstm.gq:80/movie/deyse/10203040/3328.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beleza Avassaladora (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmNr4JEXmj5fzoN1DJeWA6wR9hI.jpg" group-title="FM: Lançamentos",Beleza Avassaladora (2021)
+http://sv1.srvstm.gq:80/movie/deyse/10203040/3329.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Delivery Macabro (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7nEE8KLQGVim5hiTvVotOeGzME7.jpg" group-title="FM: Lançamentos",Delivery Macabro (2019)
+http://sv1.srvstm.gq:80/movie/deyse/10203040/3330.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espécies em Perigo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/irlz2mCcTUZXMLTUGtHTs1JwnFx.jpg" group-title="FM: Lançamentos",Espécies em Perigo (2021)
+http://sv1.srvstm.gq:80/movie/deyse/10203040/3331.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Invocação do Mal 3: A Ordem do Demônio (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLmaOXT9rMb17ISQDURKQIu3Okk.jpg" group-title="FM: Lançamentos",Invocação do Mal 3: A Ordem do Demônio (2021)
+http://sv1.srvstm.gq:80/movie/deyse/10203040/3332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Irmãs Sheppard: Das Ruas ao Pódio (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNRbKzh8Xkz96j70P6KnjRf7WM4.jpg" group-title="FM: Lançamentos",Irmãs Sheppard: Das Ruas ao Pódio (2021)
+http://sv1.srvstm.gq:80/movie/deyse/10203040/3333.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Judas e o Messias Negro (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oA4Hsn1G0sBI8U61BpX05GsrrfF.jpg" group-title="FM: Lançamentos",Judas e o Messias Negro (2021)
+http://sv1.srvstm.gq:80/movie/deyse/10203040/3334.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ijvC2w2yANsfgLT3LMu2zFr0fxh.jpg" group-title="FM: Lançamentos",Mortal Kombat (2021)
+http://sv1.srvstm.gq:80/movie/deyse/10203040/3335.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Na Mira do Perigo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eOboWXZ66o4OlhBPvsIWnaBZ6e.jpg" group-title="FM: Lançamentos",Na Mira do Perigo (2021)
+http://sv1.srvstm.gq:80/movie/deyse/10203040/3336.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Samurai X: O Final (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oS4jWkkS9A6FTLcHQb7Z6FVr9tH.jpg" group-title="FM: Lançamentos",Samurai X: O Final (2021)
+http://sv1.srvstm.gq:80/movie/deyse/10203040/3337.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Semana da Minha Vida (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gfjdBn9rOoMZQgCqySlpjZv4L2V.jpg" group-title="FM: Lançamentos",A Semana da Minha Vida (2021)
+http://sv1.srvstm.gq:80/movie/deyse/10203040/3338.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agência Secreta de Controle de Magias (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/B3Xz48iyIh9ejffVtfCxwzTO7n.jpg" group-title="FM: Lançamentos",Agência Secreta de Controle de Magias (2021)
+http://sv1.srvstm.gq:80/movie/deyse/10203040/3339.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alma de Cowboy (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OBNEWwkFhsArvWJwgeL9BFmU7c.jpg" group-title="FM: Lançamentos",Alma de Cowboy (2020)
+http://sv1.srvstm.gq:80/movie/deyse/10203040/3340.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Apenas Diga Sim (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mww6dIUvcyoaiIRJ6883jixJVPU.jpg" group-title="FM: Lançamentos",Apenas Diga Sim (2021)
+http://sv1.srvstm.gq:80/movie/deyse/10203040/3341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Até o Céu (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/imo9QdjIb3y5tJ7DICdVKHRkYXV.jpg" group-title="FM: Lançamentos",Até o Céu (2021)
+http://sv1.srvstm.gq:80/movie/deyse/10203040/3342.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fuja (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3PFEWKFqfZZoxDpJNceL6XKzsGk.jpg" group-title="FM: Lançamentos",Fuja (2020)
+http://sv1.srvstm.gq:80/movie/deyse/10203040/3343.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Irul: Ghost Hotel (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vLFGrYA2PXgwbO40WKKxYLAi0Fj.jpg" group-title="FM: Lançamentos",Irul: Ghost Hotel (2021)
+http://sv1.srvstm.gq:80/movie/deyse/10203040/3344.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Na Mesma Onda (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHNkedUdx9yIWRyjPMqOeoT6fQB.jpg" group-title="FM: Lançamentos",Na Mesma Onda (2021)
+http://sv1.srvstm.gq:80/movie/deyse/10203040/3345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Octonautas e o Círculo de Fogo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aGFtQaLlhpQ2zmmx9dcx8dNYLuI.jpg" group-title="FM: Lançamentos",Octonautas e o Círculo de Fogo (2021)
+http://sv1.srvstm.gq:80/movie/deyse/10203040/3346.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Segredos de Madame Claude (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mwpkBKS9EvHihuWbdGAcBRjNp0o.jpg" group-title="FM: Lançamentos",Os Segredos de Madame Claude (2021)
+http://sv1.srvstm.gq:80/movie/deyse/10203040/3347.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sem Filhos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s0tsTs6iE7qVBYaLCHzQQZKtq9R.jpg" group-title="FM: Lançamentos",Sem Filhos (2021)
+http://sv1.srvstm.gq:80/movie/deyse/10203040/3348.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tom & Jerry: O Filme (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9NvYyM8H6d5KAVGqpyFV9YPO5cU.jpg" group-title="FM: Lançamentos",Tom & Jerry: O Filme (2021)
+http://sv1.srvstm.gq:80/movie/deyse/10203040/3349.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tributo a Dolly Parton (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jXkELm9DENmIOuMgveR1RzjCctD.jpg" group-title="FM: Lançamentos",Tributo a Dolly Parton (2021)
+http://sv1.srvstm.gq:80/movie/deyse/10203040/3350.mp4
