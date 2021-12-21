@@ -2,3 +2,6 @@
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", TV AO VIVO
 #EXTBG:https://i.imgur.com/KLF9P7F.png
 https://raw.githubusercontent.com/ystarley/deyse/main/l.plexys
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", FILMES
+#EXTBG:https://i.imgur.com/eA4gKf9.png 
+https://raw.githubusercontent.com/ystarley/deyse/main/f.plexys
