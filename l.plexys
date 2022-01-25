@@ -1,4 +1,96 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="SERGIPAO 2022" tvg-logo="https://i.imgur.com/WExgRH6.png" group-title="ESTADUAIS",SERGIPAO 2022
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/198504.m3u8
+#EXTINF:-1 tvg-name="BAIANO 2022" tvg-logo="https://i.imgur.com/nN3fbel.png" group-title="ESTADUAIS",BAIANO 2022
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/198503.m3u8
+#EXTINF:-1 tvg-name="BBB Cam 2 FHD" tvg-logo="" group-title="BBB 2022",BBB Cam 2 FHD
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/198403.m3u8
+#EXTINF:-1 tvg-name="BBB Cam 2 HD" tvg-logo="" group-title="BBB 2022",BBB Cam 2 HD
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/198402.m3u8
+#EXTINF:-1 tvg-name="BBB Cam 2 SD" tvg-logo="" group-title="BBB 2022",BBB Cam 2 SD
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/198401.m3u8
+#EXTINF:-1 tvg-name="BBB Cam 3 FHD" tvg-logo="" group-title="BBB 2022",BBB Cam 3 FHD
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/198400.m3u8
+#EXTINF:-1 tvg-name="BBB Cam 3 HD" tvg-logo="" group-title="BBB 2022",BBB Cam 3 HD
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/198399.m3u8
+#EXTINF:-1 tvg-name="BBB Cam 3 SD" tvg-logo="" group-title="BBB 2022",BBB Cam 3 SD
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/198398.m3u8
+#EXTINF:-1 tvg-name="BBB Cam 1 SD" tvg-logo="" group-title="BBB 2022",BBB Cam 1 SD
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/198397.m3u8
+#EXTINF:-1 tvg-name="BBB Cam 1 HD" tvg-logo="" group-title="BBB 2022",BBB Cam 1 HD
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/198396.m3u8
+#EXTINF:-1 tvg-name="BBB Cam 1 FHD" tvg-logo="" group-title="BBB 2022",BBB Cam 1 FHD
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/198395.m3u8
+#EXTINF:-1 tvg-name="BBB Cam 11 SD" tvg-logo="" group-title="BBB 2022",BBB Cam 11 SD
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/198394.m3u8
+#EXTINF:-1 tvg-name="BBB Cam 11 HD" tvg-logo="" group-title="BBB 2022",BBB Cam 11 HD
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/198393.m3u8
+#EXTINF:-1 tvg-name="BBB Cam 11 FHD" tvg-logo="" group-title="BBB 2022",BBB Cam 11 FHD
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/198392.m3u8
+#EXTINF:-1 tvg-name="BBB Cam 10 SD" tvg-logo="" group-title="BBB 2022",BBB Cam 10 SD
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/198391.m3u8
+#EXTINF:-1 tvg-name="BBB Cam 10 HD" tvg-logo="" group-title="BBB 2022",BBB Cam 10 HD
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/198390.m3u8
+#EXTINF:-1 tvg-name="BBB Cam 10 FHD" tvg-logo="" group-title="BBB 2022",BBB Cam 10 FHD
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/198389.m3u8
+#EXTINF:-1 tvg-name="BBB Cam 9 SD" tvg-logo="" group-title="BBB 2022",BBB Cam 9 SD
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/198388.m3u8
+#EXTINF:-1 tvg-name="BBB Cam 9 HD" tvg-logo="" group-title="BBB 2022",BBB Cam 9 HD
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/198387.m3u8
+#EXTINF:-1 tvg-name="BBB Cam 9 FHD" tvg-logo="" group-title="BBB 2022",BBB Cam 9 FHD
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/198386.m3u8
+#EXTINF:-1 tvg-name="BBB Cam 8 SD" tvg-logo="" group-title="BBB 2022",BBB Cam 8 SD
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/198385.m3u8
+#EXTINF:-1 tvg-name="BBB Cam 8 HD" tvg-logo="" group-title="BBB 2022",BBB Cam 8 HD
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/198384.m3u8
+#EXTINF:-1 tvg-name="BBB Cam 8 FHD" tvg-logo="" group-title="BBB 2022",BBB Cam 8 FHD
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/198383.m3u8
+#EXTINF:-1 tvg-name="BBB Cam 7 SD" tvg-logo="" group-title="BBB 2022",BBB Cam 7 SD
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/198382.m3u8
+#EXTINF:-1 tvg-name="BBB Cam 7 HD" tvg-logo="" group-title="BBB 2022",BBB Cam 7 HD
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/198381.m3u8
+#EXTINF:-1 tvg-name="BBB Cam 7 FHD" tvg-logo="" group-title="BBB 2022",BBB Cam 7 FHD
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/198380.m3u8
+#EXTINF:-1 tvg-name="BBB Cam 6 SD" tvg-logo="" group-title="BBB 2022",BBB Cam 6 SD
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/198379.m3u8
+#EXTINF:-1 tvg-name="BBB Cam 6 HD" tvg-logo="" group-title="BBB 2022",BBB Cam 6 HD
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/198378.m3u8
+#EXTINF:-1 tvg-name="BBB Cam 6 FHD" tvg-logo="" group-title="BBB 2022",BBB Cam 6 FHD
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/198377.m3u8
+#EXTINF:-1 tvg-name="BBB Cam 5 SD" tvg-logo="" group-title="BBB 2022",BBB Cam 5 SD
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/198376.m3u8
+#EXTINF:-1 tvg-name="BBB Cam 5 HD" tvg-logo="" group-title="BBB 2022",BBB Cam 5 HD
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/198375.m3u8
+#EXTINF:-1 tvg-name="BBB Cam 5 FHD" tvg-logo="" group-title="BBB 2022",BBB Cam 5 FHD
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/198374.m3u8
+#EXTINF:-1 tvg-name="BBB Cam 4 SD" tvg-logo="" group-title="BBB 2022",BBB Cam 4 SD
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/198373.m3u8
+#EXTINF:-1 tvg-name="BBB Cam 4 HD" tvg-logo="" group-title="BBB 2022",BBB Cam 4 HD
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/198372.m3u8
+#EXTINF:-1 tvg-name="BBB Cam 4 FHD" tvg-logo="" group-title="BBB 2022",BBB Cam 4 FHD
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/198371.m3u8
+#EXTINF:-1 tvg-name="BBB Mosaico SD" tvg-logo="" group-title="BBB 2022",BBB Mosaico SD
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/198370.m3u8
+#EXTINF:-1 tvg-name="BBB Mosaico HD" tvg-logo="" group-title="BBB 2022",BBB Mosaico HD
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/198369.m3u8
+#EXTINF:-1 tvg-name="BBB Mosaico FHD" tvg-logo="" group-title="BBB 2022",BBB Mosaico FHD
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/198368.m3u8
+#EXTINF:-1 tvg-name="BBB SD 2" tvg-logo="" group-title="BBB 2022",BBB SD 2
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/198367.m3u8
+#EXTINF:-1 tvg-name="BBB FHD 2" tvg-logo="" group-title="BBB 2022",BBB FHD 2
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/198366.m3u8
+#EXTINF:-1 tvg-name="BBB SD 1" tvg-logo="" group-title="BBB 2022",BBB SD 1
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/198365.m3u8
+#EXTINF:-1 tvg-name="BBB FHD 1" tvg-logo="" group-title="BBB 2022",BBB FHD 1
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/198364.m3u8
+#EXTINF:-1 tvg-name="SBT Para" tvg-logo="https://i.imgur.com/ndDJRrR.png" group-title="SBT",SBT Para
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/197891.m3u8
+#EXTINF:-1 tvg-name="BBB HD MOSAICO" tvg-logo="https://i.imgur.com/g3yA4mM.png" group-title="BBB 2022",BBB HD MOSAICO
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/197800.m3u8
+#EXTINF:-1 tvg-name="BBB HD 2" tvg-logo="https://i.imgur.com/g3yA4mM.png" group-title="BBB 2022",BBB HD 2
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/197799.m3u8
+#EXTINF:-1 tvg-name="BBB HD 1" tvg-logo="https://i.imgur.com/g3yA4mM.png" group-title="BBB 2022",BBB HD 1
+ http://5ce.co:80/live/deyse01/g6g3gf6gf/197798.m3u8
 #EXTINF:-1 tvg-name="A&E HD" tvg-logo="http://70.ms/hy" group-title="FILMES & SÉRIES",A&E HD
  http://5ce.co:80/deyse01/g6g3gf6gf/6647
 #EXTINF:-1 tvg-name="AMC HD" tvg-logo="http://70.ms/hv" group-title="FILMES & SÉRIES",AMC HD
